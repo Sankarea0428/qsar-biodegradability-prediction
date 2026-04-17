@@ -1,0 +1,13 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# temporary files
+untitled.py
+untitled1.py
+
+# optional
+data/raw/
