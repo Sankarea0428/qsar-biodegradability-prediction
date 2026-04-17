@@ -78,11 +78,10 @@ This means that the most suitable model depends on the evaluation priority:
 ## Visual Comparison
 
 ### Model Accuracy Comparison
-![Model Accuracy Comparison](figures/model_accuracy_comparison.png)
+![Model Accuracy Comparison](figures/Model%20Accuracy%20Comparison.png)
 
 ### Model Recall for RB Class
-![Model Recall for RB Class](figures/model_recall_rb.png)
-
+![Model Recall for RB Class](figures/Model%20Recall%20for%20RB%20Class.png)
 ---
 
 ## Project Structure
